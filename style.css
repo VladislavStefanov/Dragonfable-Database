@@ -1,0 +1,7 @@
+iframe {
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    height: 90%;
+    width: 50%;
+}
